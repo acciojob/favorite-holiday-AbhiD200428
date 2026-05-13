@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+body {
+            font-family: 'Georgia', serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fffaf0;
+        }
+        h1 {
+            color: #8b0000;
+            text-align: center;
+        }
+        ol, ul {
+            background: #fff;
+            padding: 20px 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        li {
+            margin-bottom: 10px;
+        }
